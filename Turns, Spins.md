@@ -1,0 +1,12 @@
+- [x] [[Outside Turn]]
+- [ ] [[Inside Turn]]
+- [x] [[Arch]] - From outside turn
+- [ ] [[Belt Loop]] - From outside turn, can resume with either hand
+- [ ] [[Loop]] - From neutral
+- [ ] [[Zig-Zag]]
+- [ ] [[Tornado]]
+- [ ] [[Tabletop]]
+- [x] Tabletop Single = Spineroo into Break Up
+- [ ] [[Tunnel]]
+- [ ] [[Slingshot]] = Belt Loop, throw into Turn
+- [ ] [[Window]]

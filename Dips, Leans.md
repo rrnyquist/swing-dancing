@@ -1,0 +1,12 @@
+- [x] [[Classic Dip]]
+- [ ] [[Sweetheart Dip]]
+- [ ] [[Sweetheart Lean]]
+- [x] [[Cherry Bomb]]
+- [ ] [[Drunken Sailor]] (dip, cradle)
+- [ ] [[Suicide Dip]]
+- [ ] [[Trust Fall Dip]]
+- [ ] [[Dip Fall]]
+- [ ] [[Shoulder Lean]]
+- [ ] [[Chainsaw Dip]]
+- [ ] [[Tango Dip]]
+

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9c99f25f2ddd2238",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e55da7ccbcb6d75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Master List.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62d194e12f18888d",
+    "type": "split",
+    "children": [
+      {
+        "id": "43edbbee46cefdf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247be14f1582d032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "baeed8a7ac791d5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bdecfd2c6aaf038",
+    "type": "split",
+    "children": [
+      {
+        "id": "097bdd01f119b41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00cf12fd63ec1f2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Master List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e55da7ccbcb6d75",
+  "lastOpenFiles": [
+    "_Master List.md",
+    "Dips, Leans.md",
+    "Turns, Spins.md",
+    "Positions, Transitions.md",
+    "_Air/Old Couple.md",
+    "_Ground/Sweetheart Dip.md",
+    "Moves I Know.md",
+    "_Positions and Transitions/Cradle.md",
+    "Gifs/ChainsawMassacare.gif",
+    "_Ground/Tornado.md"
+  ]
+}

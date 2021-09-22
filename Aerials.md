@@ -1,0 +1,19 @@
+- [x] [[Princess]]
+- [x] *[[Backflip]]*
+- [x] *Angel*
+- [x] *Wendy*
+- [x] *Lindy* 
+- [x] *Shin Splints* aka hip lift
+- [x] *[[Mop]]*
+- [x] *Backpack*
+- [ ] [[Sack of Potatoes]]
+- [ ] [[Hanging Monkey]]
+- [ ] [[Barrel Spin]]
+- [ ] [[Tandem Flip]]
+- [ ] [[Proposal]]
+- [ ] [[Old Couple]]
+- [ ] [[Birdie]]
+- [ ] [[Crucifix]]
+- [ ] [[Fireman's Carry]]
+- [ ] [[Can Opener]]
+- [ ] [[Candlestick]]

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "0c3df2750ce7d3a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eebd00381dfbc06",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "eQIP.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e27ea8a3a25fd48d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cedeb9f51203ceee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6476ac1ab1fe693",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a4ff02fc1f26d44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e180ec94ef8c9d58",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aacdcd4058e2811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "317bef9608537ad6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "eQIP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7eebd00381dfbc06",
+  "lastOpenFiles": [
+    "eQIP.md",
+    "Travel.md",
+    "Foreign Contacts.md",
+    "Levi Fox.md",
+    "Employment.md",
+    "Places I've Lived.md",
+    "Passport.md",
+    "Passport Hey.md",
+    "Richard's Passport.md",
+    "Levi Foxasdf.md"
+  ]
+}
