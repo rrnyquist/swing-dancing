@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Richard's Notes/Test.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Richard's Notes/Test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6e55da7ccbcb6d75",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
-    "Moves I Know.md",
+    "___Richard's Notes/Moves I Know.md",
+    "__Move Lists/_Master List_.md",
+    "__Move Lists/_Master List.md",
+    "__Move Lists/Aerials.md",
     "_Master List.md",
+    "Untitled.md",
+    "Moves I Know.md",
     "Turns, Spins.md",
-    "Sublists/Aerials.md",
-    "Move Template.md",
-    "Positions, Transitions.md",
-    "Aerials.md",
-    "Dips, Leans.md"
+    "Sublists/Aerials.md"
   ]
 }

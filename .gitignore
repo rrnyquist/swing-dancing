@@ -1,9 +1,7 @@
 # Don't track these files
 
 # My random notes
-__Richard's\ Notes/
-Moves\ I\ Know.md
-To\ Do.md
+___Richard's\ Notes/
 
 # System files
 .DS_Store
