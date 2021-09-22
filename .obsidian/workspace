@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Master List.md",
-            "mode": "preview"
+            "file": "__Richard's Notes/Test.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Master List.md",
+                "file": "__Richard's Notes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6e55da7ccbcb6d75",
   "lastOpenFiles": [
-    "_Master List.md",
-    "Moves I Know.md",
-    "Turns, Spins.md",
-    "Positions, Transitions.md",
-    "Dips, Leans.md",
-    "To Do.md",
+    "Untitled.md",
     "README.md",
-    "_Air/Old Couple.md",
-    "_Ground/Sweetheart Dip.md",
-    "_Positions and Transitions/Cradle.md"
+    "Moves I Know.md",
+    "_Master List.md",
+    "Turns, Spins.md",
+    "Sublists/Aerials.md",
+    "Move Template.md",
+    "Positions, Transitions.md",
+    "Aerials.md",
+    "Dips, Leans.md"
   ]
 }
