@@ -2,7 +2,7 @@
 - [x] [[Rock Step]]
 - [x] [[Sweetheart]] - From neutral or from Pretzel
 - [x] [[Pretzel]]
-- [x] *[[Hammerlock]]* - From neutral
+- [x] [[Hammerlock]] - From neutral
 - [ ] [[Spinneroo]] - Spinneroo into Break Up = Tabletop Single
 - [x] [[Cradle]]
 - [x] [[Arrow]]

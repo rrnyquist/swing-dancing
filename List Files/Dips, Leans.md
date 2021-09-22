@@ -2,7 +2,7 @@
 - [ ] [[Sweetheart Dip]]
 - [ ] [[Sweetheart Lean]]
 - [x] [[Cherry Bomb]]
-- [ ] [[Drunken Sailor]] (dip, cradle)
+- [ ] [[Drunken Sailor]] (dip + cradle)
 - [ ] [[Suicide Dip]]
 - [ ] [[Trust Fall Dip]]
 - [ ] [[Dip Fall]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2fd7bab76a083a",
+        "id": "3b03106dad1b6fc4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Move Lists/_Master List_.md",
+            "file": "Master List.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Move Lists/_Master List_.md",
+                "file": "Master List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a2fd7bab76a083a",
+  "active": "3b03106dad1b6fc4",
   "lastOpenFiles": [
-    "__Move Lists/_Master List_.md",
-    "_Positions and Transitions/Arrow.md",
-    "_Air/Candlestick.md",
-    "_Positions and Transitions/Spinneroo.md",
-    "_Air/Crucifix.md",
-    "_Air/Proposal.md",
-    "_Air/Princess.md",
+    "Master List.md",
+    "List Files/Aerials.md",
+    "README.md",
+    "Sublists/Aerials.md",
+    "__Move Lists with Notes/Aerials.md",
+    "__Move Lists/Turns, Spins.md",
     "__Move Lists/Positions, Transitions.md",
-    "_Air/Scissors.md",
-    "_Positions and Transitions/Spin Out.md"
+    "__Move Lists/Dips, Leans.md",
+    "__Move Lists/Aerials.md",
+    "Turns, Spins/Arch.md"
   ]
 }

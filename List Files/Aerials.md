@@ -1,11 +1,11 @@
 - [x] [[Princess]]
-- [x] *[[Backflip]]*
-- [x] *Angel*
-- [x] *Wendy*
-- [x] *Lindy* 
-- [x] *Shin Splints* aka hip lift
-- [x] *[[Mop]]*
-- [x] *Backpack*
+- [x] [[Backflip]]
+- [x] Angel
+- [x] Wendy
+- [x] Lindy
+- [x] Shin Splints
+- [x] [[Mop]]
+- [ ] Backpack
 - [ ] [[Sack of Potatoes]]
 - [ ] [[Hanging Monkey]]
 - [ ] [[Barrel Spin]]

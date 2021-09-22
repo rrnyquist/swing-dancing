@@ -9,7 +9,7 @@ This notebook is still a work in progress, but I've found it to be a very useful
 # Use in Obsidian
 If you have this README open in Obsidian, use the following link to see the full move list: 
 
-[[_Master List_]]
+[[Master List]]
 
 This contains all move sublists, catagorized into: 
 - [[Positions, Transitions]]

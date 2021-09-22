@@ -4,6 +4,6 @@
 **Next move options:**
 [[Rock Step]]
 [[Sweetheart]]
-[[Spineroo]]
+[[Spinneroo]]
 [[Inside Turn]]
 [[Loop]]
