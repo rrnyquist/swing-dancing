@@ -5,5 +5,5 @@
 [[Rock Step]]
 [[Sweetheart]]
 [[Spineroo]]
-[[Inside Turn]] - probably
-[[Loop]] - probably
+[[Inside Turn]]
+[[Loop]]

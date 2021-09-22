@@ -15,5 +15,5 @@
 - [ ] [[Birdie]]
 - [ ] [[Crucifix]]
 - [ ] [[Fireman's Carry]]
-- [ ] [[Can Opener]]
+- [ ] [[Scissors]]
 - [ ] [[Candlestick]]

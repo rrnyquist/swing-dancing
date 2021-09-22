@@ -12,5 +12,5 @@ https://countryswingaz.com/2018/10/10/spin-out/
 [[Tango Dip]]
 [[Sack of Potatoes]]
 [[Hanging Monkey]]
-[[Can Opener]] - probably
+[[Scissors]]
 [[Barrel Spin]]

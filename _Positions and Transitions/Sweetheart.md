@@ -6,4 +6,4 @@
 [[Spin Out]]
 [[Sweetheart Dip]]
 [[Sweetheart Lean]]
-[[Can Opener]] 
+[[Scissors]] 

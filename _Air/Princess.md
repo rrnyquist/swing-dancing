@@ -2,8 +2,7 @@
 
 [**Primary Reference Source**](https://www.youtube.com/watch?v=eiKTcfpdd30)
 
-This is a cool spin variation thing
-[[PrincessVariation.gif]]
+[Interesting Variation](https://www.youtube.com/watch?v=r-uZRkLr-MM&ab_channel=CountryDanceX)
 
 **Start with**:
 [[Outside Turn]]
