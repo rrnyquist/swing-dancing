@@ -1,6 +1,6 @@
 # Swing Dancing Obsidian Notebook
 
-Hello! When this folder is opened as a *Vault* in the app *Obsidian*, it functions as a wiki of swing dancing moves. To look at all the moves, go to [[_Master_List]].
+Hello! When this folder is opened as a *Vault* in the app [Obsidian](https://obsidian.md/), it functions as a wiki of swing dancing moves. To look at all the moves, go to [[_Master List]].
 
 You may see checkboxes in these files--that's for my reference (moves I've learned/not learned). 
 
