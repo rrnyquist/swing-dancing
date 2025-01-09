@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "3256f7bd9dbe4f28",
+    "type": "split",
+    "children": [
+      {
+        "id": "92dc9f27ea15fc54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a56ef83fff84263",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b1b55a47c9bda7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f548028f542868ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a71ebe42e70e688",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5c91d6dcdc10230",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2073c68e7853e58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c68d1d685b9bbd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "228251373739ca3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2da5edfe1c8ea0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "8a56ef83fff84263",
+  "lastOpenFiles": [
+    "Move Folders/Turns, Spins/Zig-Zag.md",
+    "Move Folders/Aerials/Hanging Monkey.md",
+    "Move Folders/Aerials/Proposal.md",
+    "Move Folders/Aerials/Tandem Flip.md",
+    "Move Folders/Aerials/Princess.md",
+    "Move Folders/Aerials/Birdie.md",
+    "Move Folders/Aerials/Fireman's Carry.md",
+    "Move Folders/Aerials/Mop.md",
+    "Move Folders/Aerials/Sack of Potatoes.md",
+    "Move Folders/Aerials/Candlestick.md",
+    "Move Folders/Aerials/Lindy.md",
+    "Move Folders/Aerials/Lindy.md",
+    "Master List.md",
+    "Move Folders/Dips, Leans/Dips, Leans.md",
+    "Move Folders/Positions, Transitions/Spin Out.md",
+    "Move Folders/Dips, Leans/Chainsaw Dip.md",
+    "Move Folders/Dips, Leans/Basic Dip.md",
+    "Move Folders/Dips, Leans/Trust Fall Dip.md",
+    "Move Folders/Turns, Spins/Belt Loop.md",
+    "README.md"
+  ]
+}
